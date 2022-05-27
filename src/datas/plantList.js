@@ -69,7 +69,7 @@ export const plantList = [
 		price: 6
 	},
 	{
-		name: 'basilique',
+		name: 'basilic',
 		category: 'extérieur',
 		id: '7ie',
 		bestSale: true,
