@@ -1,7 +1,8 @@
 .lmj-plant-item-cover {
-	height: 220px;
-	width: 220px;
+	height: 250px;
+	width: 250px;
 	border-radius: 20px;
+	object-fit: cover; /* La propriété CSS object-fit définit la façon dont le contenu d'un élément remplacé (<img> ou <video> par exemple) doit s'adapter à son conteneur en utilisant sa largeur et sa hauteur.*/
 }
 
 .lmj-plant-item {
@@ -10,5 +11,17 @@
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	text-transform: capitalize;
+	text-transform: capitalize; /*La propriété text-transform définit la façon d'utiliser les lettres capitales pour le texte d'un élément. Cela permet que le texte soit écrit uniquement en majuscules, minuscules ou que chaque mot commence par une capitale. Cela permet également d'améliorer la lisibilité pour les textes avec des annotations Ruby. */
+	position: relative; /* https://developer.mozilla.org/fr/docs/Web/CSS/position */
+}
+
+.lmj-plant-item-price {
+	position: absolute; /* https://developer.mozilla.org/fr/docs/Web/CSS/position */
+	border-radius: 20px 20px 20px 0;
+	background-color: #31b472;
+	color: white;
+	padding: 15px;
+	right: 0;
+	top: 0;
+	font-weight: 500;
 }
