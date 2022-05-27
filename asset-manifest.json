@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/la-maison-jungle/static/css/main.d0d279e7.css",
-    "main.js": "/la-maison-jungle/static/js/main.efc503e3.js",
+    "main.js": "/la-maison-jungle/static/js/main.e7cff4d9.js",
     "static/media/olivier.jpg": "/la-maison-jungle/static/media/olivier.b2908b40d9fb7f86626b.jpg",
     "static/media/monstera.jpg": "/la-maison-jungle/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
     "static/media/basil.jpg": "/la-maison-jungle/static/media/basil.be00474e950eb5af0054.jpg",
@@ -15,10 +15,10 @@
     "static/media/water.svg": "/la-maison-jungle/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
     "index.html": "/la-maison-jungle/index.html",
     "main.d0d279e7.css.map": "/la-maison-jungle/static/css/main.d0d279e7.css.map",
-    "main.efc503e3.js.map": "/la-maison-jungle/static/js/main.efc503e3.js.map"
+    "main.e7cff4d9.js.map": "/la-maison-jungle/static/js/main.e7cff4d9.js.map"
   },
   "entrypoints": [
     "static/css/main.d0d279e7.css",
-    "static/js/main.efc503e3.js"
+    "static/js/main.e7cff4d9.js"
   ]
 }
